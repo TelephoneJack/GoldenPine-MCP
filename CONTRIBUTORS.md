@@ -2,7 +2,7 @@
 
 ## Maintainer
 
-- [@yourusername] - Project creator
+- [@TelephoneJack] - Project creator
 
 ## Community Contributors
 
